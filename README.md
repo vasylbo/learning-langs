@@ -9,3 +9,4 @@ You can use it by inlining parameters in code or running it from command line. F
 ```
 python makeTranslator.py book.txt translation.csv en uk
 ```
+Depends on py-translate.
